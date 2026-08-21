@@ -1,5 +1,7 @@
 <div align="center">
-  [English](README.md)
+
+  [English](./README.md)
+  
 </div>
 
 # CNFinder

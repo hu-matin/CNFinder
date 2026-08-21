@@ -1,6 +1,8 @@
 
 <div align="center">
+
   [فارسی](README_FA.md)
+
 </div>
 
 # CNFinder
